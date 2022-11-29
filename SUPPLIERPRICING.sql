@@ -1,0 +1,1 @@
+SELECT * FROM order_directory.supplier_pricing;
